@@ -1,0 +1,15 @@
+@import "../../../assets/styles/variables.scss";
+
+.mat-toolbar{
+  background-color: $black;
+}
+
+img:hover{
+  cursor: pointer;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
